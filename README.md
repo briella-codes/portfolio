@@ -14,7 +14,7 @@
     </p>
 
   <table align="center" style="width:100%; margin: 0 auto; text-align: center; ">
-    <tr style="font-size:14px; font-weight:bold; border-bottom:1px solid #f0f0f0;">
+    <tr align="center" style="font-size:14px; font-weight:bold; border-bottom:1px solid #f0f0f0;">
       <td style="color:#4a90e2;padding:10px;">
         Coffe Survey Data Analysis
       </td>
