@@ -7,7 +7,7 @@
   <div style="height:3px; width:80px; background:#39ff14; margin-bottom:18px;"></div>
 
   <p style="font-size:18px; color:#2c2c54; margin-bottom:20px;">
-    Here is where <span style="color:#4a90e2; font-weight:bold;">CODE meets DATA</span> — 
+    Here is where <span style="color:#4a90e2; font-weight:bold;">CODE meets DATA</span> — <br>
     Projects in Software Development and Data Science.
   </p>
 
