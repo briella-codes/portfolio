@@ -15,7 +15,6 @@ My portfolio projects: Code, data, and analysis
   </p>
 
   <table style="border-collapse: collapse; width: 100%;">
-
     <tr style="border-bottom:1px solid #f0f0f0;">
       <td style="padding:10px; font-weight:bold; color:#4a90e2;">
         Coffe Survey Data Analysis
@@ -27,7 +26,6 @@ My portfolio projects: Code, data, and analysis
         </a>
       </td>
     </tr>
-
     <tr style="border-bottom:1px solid #f0f0f0;">
       <td style="padding:10px; font-weight:bold; color:#4a90e2;">
         Task Manager
@@ -39,7 +37,6 @@ My portfolio projects: Code, data, and analysis
         </a>
       </td>
     </tr>
-
     <tr>
       <td style="padding:10px; font-weight:bold; color:#4a90e2;">
         Task Manager
