@@ -1,62 +1,67 @@
-<div style="font-family: Arial; line-height: 1.6; background-color:#ffffff; padding:20px; border-radius:12px; border:1px solid #e6e6e6;">
+<div style="font-family: Arial;">
 
-  <h1 style="color:#6c37f4; font-size:34px; margin-bottom:8px;">
-    Welcome to My Portfolio
-  </h1>
+<table style="border-collapse: collapse; width: 100%;">
+<tr>
+  <td style="text-align: right; vertical-align: top; border: none;">
+    <img src="coffee_banner.jpg" width="290" height="420">
+  </td>
 
-  <div style="height:3px; width:80px; background:#39ff14; margin-bottom:18px;"></div>
+  <td style="text-align: left; vertical-align: top; padding-right: 10px; border: none;">
+    <div style="font-size: 58px; font-weight: bold; margin-bottom: 10px;">
+      <span style="color:#6B3E26;">C</span>
+      <span style="color:#8B5A2B;">O</span>
+      <span style="color:#A47148;">F</span>
+      <span style="color:#A47148;">F</span>
+      <span style="color:#C08A5A;">E</span>
+      <span style="color:#C08A5A;">E</span>
+      &nbsp;
+      <span style="color:#6B3E26;">S</span>
+      <span style="color:#8B5A2B;">U</span>
+      <span style="color:#A47148;">R</span>
+      <span style="color:#A47148;">V</span>
+      <span style="color:#C08A5A;">E</span>
+      <span style="color:#C08A5A;">Y</span>
+      <br>
+      <span style= "color: #ff2584ff;">  DATA ANALYSIS </span>
+    </div>
+    <div style="font-family: Arial; color: #555; line-height: 1.2; max-width: 900px;">
+    <div style="font-size: 12px; font-weight: bold; margin-bottom: 10px;">
+      (Work in progress)
+    </div>
+    <div style="margin-bottom: 10px;">
+      This project analyzes an international coffee consumption survey using Python, Pandas, regex and Matplotlib.
+    </div>
+    <div style="margin-bottom: 15px;">
+      <strong>Dataset:</strong> Public Major Coffee Survey from James Hoffmann <a href="https://www.youtube.com/watch?v=U489K2t_Tgc" target="_blank">
+        "Great American Taste Test" </a>
+    </div>
+    <ul style="margin-top: 0; margin-bottom: 12px;">
+      <li>58 questions answered by 4,042 participants</li>
+      <li>Mixed data types: categorical, ranges, multi-value, single-values, ordinal, etc.</li>
+    </ul>
+    <div style="font-weight: bold; margin-bottom: 5px;">
+      Purpose:
+    </div>
+    <ul style="margin-top: 0; margin-bottom: 20px;">
+      <li>Demonstrate data cleaning, preprocessing techniques and missing values treatment on a real big dataset with mixed data types.</li>
+      <li>EDA: Perform exploratory data analysis skills while exploring coffee consumption habits and patterns.</li>
+      <li>Identify consumer profiles based on habits, consumption intensity, spending behaviour and taste preferences.</li>
+      <li>Apply Python, Pandas, regex and Matplotlib skills</li>
+    </ul>
 
-  <p style="font-size:18px; color:#2c2c54; margin-bottom:20px;">
-    Here is where <span style="color:#4a90e2; font-weight:bold;">CODE meets DATA</span> — <br>
-    Projects in Software Development and Data Science.
-  </p>
-
-  <table style="border-collapse: collapse; width: 100%;">
-    <tr style="border-bottom:1px solid #f0f0f0;">
-      <td style="padding:10px; font-weight:bold; color:#4a90e2;">
-        Coffe Survey Data Analysis
-      </td>
-      <td style="padding:10px;">
-        <a href="https://github.com/briella-codes/coffee_survey" 
-           style="color:#6c37f4; text-decoration:none; font-weight:bold;">
-          View Repository →
-        </a>
-      </td>
-    </tr>
-    <tr style="border-bottom:1px solid #f0f0f0;">
-      <td style="padding:10px; font-weight:bold; color:#4a90e2;">
-        Task Manager
-      </td>
-      <td style="padding:10px;">
-        <a href="https://github.com/briella-codes/intelligent-task-manager" 
-           style="color:#6c37f4; text-decoration:none; font-weight:bold;">
-          View Repository →
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td style="padding:10px; font-weight:bold; color:#4a90e2;">
-        Task Manager
-      </td>
-      <td style="padding:10px;">
-        <a href="https://github.com/briella-codes/intelligent-task-manager" 
-           style="color:#6c37f4; text-decoration:none; font-weight:bold;">
-          View Repository →
-        </a>
-      </td>
-    </tr>
-
-  </table>
-
-  <div style="margin-top:20px; font-size:12px; color:#999;">
-    <span style="color:#39ff14;">●</span> Data-driven • Code-focused • Always learning
   </div>
-  <div style="margin-top:20px; font-size:12px; color:#999;">
-    <span style="color:#39ff14;">●</span>## License
-© 2026 [[tu nombre]](https://github.com/briella-codes/). All rights reserved.
-This repository is shared for portfolio viewing purposes only.
-No part of this project may be copied, modified, or used 
-without explicit written permission from the author.
-  </div>
+
+  </td>
+
+</tr>
+
+<tr>
+  <td colspan="2" style="text-align: center; vertical-align: top; border: none;">
+    <div style="color: #976effff ; font-weight: bold; font-size: 20px; border: 0px; border-radius: 62px; background-color: #000000; padding: 32px 0px;" >
+      <strong>Being PROGRAMMER and COFFEE LOVER like many other programmers,<br> I choose this project to combine my PASSION for CODING <br>with exploring coffee consumption habits through DATA ANALYSIS</strong> <br> 
+    </div>
+  </td>
+
+</table>
 
 </div>
