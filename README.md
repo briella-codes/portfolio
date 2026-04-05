@@ -3,8 +3,8 @@
   <h1 style="color:#6c37f4; font-size:34px; margin-bottom:0px; text-align: center;">
     Welcome to MY PORTFOLIO
   </h1>
-  <div align="center" style="height:4px; background:#39ff14; margin-bottom:18px; text-align: center; "> </div>
-    <p style="font-size:18px; color: #c6babaff; margin-bottom:0px; text-align: center;">
+  <div align="center" style="height:4px; background:#39ff14; margin-bottom:2px; text-align: center; "> </div>
+    <p style="font-size:18px; color: #c6babaff; margin-top: 0px; margin-bottom: 12px; text-align: center;">
       - where <span style="color:#4a90e2; font-weight:bold;">CODE </span> meets <span style="color:#4a90e2; font-weight:bold;"> DATA</span> -
     </p>
     <p style="font-size:18px; color: #000000ff; margin-bottom:20px; text-align: center;">
