@@ -1,4 +1,4 @@
-<div style="font-family: Arial; line-height: 1.6; background-color: #ffffff; padding:20px; border-radius:12px; border: 1px solid #e6e6e6 ; width:70%; margin-top:0; align:center; " >
+<div style="font-family: Arial; line-height: 1.6; background-color: #ffffff; padding:20px; border-radius:12px; border: 1px solid #e6e6e6 ; width:70%; margin-top:0; " >
   <img src="./pics/banner.png" width="100%">
   <h1 style="color:#6c37f4; font-size:34px; margin-bottom:0px; text-align: center;">
     Welcome to MY PORTFOLIO
@@ -13,7 +13,7 @@
       Here you will find Projects in Software Development and Data Science
     </p>
 
-  <table style="border-collapse: collapse; margin: 0 auto; align:center; ">
+  <table align="center" style="border-collapse: collapse; margin: 0 auto; ">
     <tr style="font-size:14px; font-weight:bold; border-bottom:1px solid #f0f0f0;">
       <td style="color:#4a90e2;padding:10px;">
         Coffe Survey Data Analysis
