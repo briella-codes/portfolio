@@ -7,7 +7,6 @@
     <p style="font-size:18px; color: #c6babaff; margin-bottom:0px; text-align: center;">
       - where <span style="color:#4a90e2; font-weight:bold;">CODE </span> meets <span style="color:#4a90e2; font-weight:bold;"> DATA</span> -
     </p>
-      <br>
     <p style="font-size:18px; color: #000000ff; margin-bottom:20px; text-align: center;">
       Here you will find Projects in Software Development and Data Science
     </p>
