@@ -11,7 +11,7 @@
     <p style="font-size:18px; color: #000000ff; margin-bottom:20px; text-align: center;">
       Here you will find Projects in Software Development and Data Science
     </p>
-    <table align="center" style="width:100%; margin: 0 auto; ">
+    <table align="center" style="width:100%; margin-left: auto; margin-right: auto; ">
       <tr style="font-size:14px; font-weight:bold; border-bottom:1px solid #f0f0f0;">
         <td style="color: #4a90e2; padding:10px;">
           Coffe Survey Data Analysis
