@@ -1,10 +1,10 @@
-<div style="font-family: Arial; line-height: 1.6; background-color: #ffffff; padding:20px; border-radius:12px; border: 1px solid #e6e6e6 ; width:70%; margin-top:0; text-align: center; " >
+<div align="center" style="font-family: Arial; line-height: 1.6; background-color: #ffffff; padding:20px; border-radius:12px; border: 1px solid #e6e6e6 ; width:70%; margin-top:0; text-align: center; " >
   <img src="./pics/banner.png" width="100%">
   <h1 style="color:#6c37f4; font-size:34px; margin-bottom:0px; text-align: center;">
     Welcome to MY PORTFOLIO
   </h1>
 
-  <div style="height:4px; background:#39ff14; margin-bottom:18px; text-align: center; "> </div>
+  <div align="center" style="height:4px; background:#39ff14; margin-bottom:18px; text-align: center; "> </div>
     <p style="font-size:18px; color: #c6babaff; margin-bottom:0px; text-align: center;">
       - where <span style="color:#4a90e2; font-weight:bold;">CODE </span> meets <span style="color:#4a90e2; font-weight:bold;"> DATA</span> -
     </p>
