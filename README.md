@@ -1,4 +1,4 @@
-<div style="font-family: Arial; line-height: 1.6; background-color: #ffffff; padding:20px; border-radius:12px; border: 1px solid #e6e6e6 ; width:70%; margin-top:0; display: flex; justify-content: center; text-align: center; " >
+<div style="font-family: Arial; line-height: 1.6; background-color: #ffffff; padding:20px; border-radius:12px; border: 1px solid #e6e6e6 ; width:70%; margin-top:0;  width: 100%; " >
   <img src="./pics/banner.png" width="100%">
   <h1 style="color:#6c37f4; font-size:34px; margin-bottom:0px; text-align: center;">
     Welcome to MY PORTFOLIO
