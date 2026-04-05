@@ -13,7 +13,7 @@
       Here you will find Projects in Software Development and Data Science
     </p>
 
-  <table style="border-collapse: collapse; width: 100%;  margin: 0 auto; ">
+  <table style="border-collapse: collapse; margin: 0 auto; ">
     <tr style="font-size:14px; font-weight:bold; border-bottom:1px solid #f0f0f0;">
       <td style="color:#4a90e2;padding:10px;">
         Coffe Survey Data Analysis
