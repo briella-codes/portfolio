@@ -72,9 +72,8 @@
             <a href="https://colab.research.google.com/github/briella-codes/coffee_survey/blob/main/notebooks/survey_analysis_english.ipynb" target="_blank"
                style="font-size:16px; color:#37ff00; text-decoration:none; display:inline-flex; align-items:center; gap:10px;">
               <span class="circle">
-                <span class="triangle">▶</span>
-              </span>
-              Live Demo
+                <span class="triangle">▶</span> </span>
+                  Live Demo
             </a>
           </td>
           <td style="font-weight:bold; color:#4a90e2;padding:10px;">
