@@ -89,5 +89,4 @@
      License © 2026 https://github.com/briella-codes/. All rights reserved.<br>
     This repository is shared for portfolio viewing purposes only. No part of this project may be copied, modified, or used without explicit written permission from the author.
   </div>
-
 </div>
