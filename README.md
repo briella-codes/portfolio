@@ -1,15 +1,20 @@
-<style>
-  @keyframes colorSpin {
-    0%   { color: #37ff00; }
-    25%  { color: #00cfff; }
-    50%  { color: #ff4ecd; }
-    75%  { color: #ffe600; }
-    100% { color: #37ff00; }
-  }
-  .triangle-anim {
-    animation: colorSpin 1.5s infinite;
-    display: inline-block;
-  }
+@keyframes lilagreen {
+  0%   { color: #c800ff; }
+  25%  { color: #39ff14; }
+  50%  { color: #a020f0; }
+  75%  { color: #00ff88; }
+  100% { color: #c800ff; }
+}
+.triangle { animation: colorSpin 2s infinite; display: inline-block; }
+.circle {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 34px; height: 34px;
+  border-radius: 50%;
+  background: #000000;
+  font-size: 14px;
+}
 </style>
 <div align="center" style="font-family: Arial; line-height: 1.6; background-color: #ffffff; padding:20px; border-radius:12px; border: 1px solid #e6e6e6 ; width:70%; margin-top:0; margin: 0 auto; text-align: center; " >
   <img src="./pics/banner.png" width="100%">
@@ -63,10 +68,12 @@
             Smart Image Classifier & Organizer
           </td>
           <td>
-            <a href="https://colab.research.google.com/github/briella-codes/coffee_survey/blob/main/notebooks/survey_analysis_english.ipynb"  target="_blank"
-              style="font-size:16px; color: #37ff00; text-decoration:none;">
-              <span class="triangle-anim">▶</span> Live Demo
-          </a>
+            <a href="https://colab.research.google.com/github/briella-codes/coffee_survey/blob/main/notebooks/survey_analysis_english.ipynb" target="_blank"
+             style="font-size:16px; color: #37ff00; text-decoration:none; display:inline-flex; align-items:center; gap:10px;">
+            <span style="display:inline-flex; align-items:center; justify-content:center; width:34px; height:34px; border-radius:50%; background:#000000; font-size:14px;">
+              <span class="triangle">▶</span></span>
+                Live Demo
+            </a>
           </td>
           <td style="font-weight:bold; color:#4a90e2;padding:10px;">
             <a href="https://github.com/briella-codes/intelligent-task-manager" style="color:#6c37f4; text-decoration:none; font-weight:bold;">
