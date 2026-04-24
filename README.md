@@ -1,3 +1,16 @@
+<style>
+  @keyframes colorSpin {
+    0%   { color: #37ff00; }
+    25%  { color: #00cfff; }
+    50%  { color: #ff4ecd; }
+    75%  { color: #ffe600; }
+    100% { color: #37ff00; }
+  }
+  .triangle-anim {
+    animation: colorSpin 1.5s infinite;
+    display: inline-block;
+  }
+</style>
 <div align="center" style="font-family: Arial; line-height: 1.6; background-color: #ffffff; padding:20px; border-radius:12px; border: 1px solid #e6e6e6 ; width:70%; margin-top:0; margin: 0 auto; text-align: center; " >
   <img src="./pics/banner.png" width="100%">
   <h1 style="color:#6c37f4; font-size:34px; margin-bottom:0px; text-align: center;">
@@ -50,27 +63,10 @@
             Smart Image Classifier & Organizer
           </td>
           <td>
-            <a href="https://colab.research.google.com/github/briella-codes/coffee_survey/blob/main/notebooks/survey_analysis_english.ipynb" target="_blank" style="
-              display: inline-flex;
-              align-items: center;
-              gap: 8px;
-              background-color: #22c55e;
-              color: #ffffff;
-              text-decoration: none;
-              font-family: 'Courier New', monospace;
-              font-size: 15px;
-              font-weight: 700;
-              padding: 10px 22px;
-              border-radius: 8px;
-              border: 2px solid #16a34a;
-              box-shadow: 0 4px 14px rgba(34,197,94,0.4);
-              transition: all 0.2s ease;
-              letter-spacing: 1px;
-            "
-            onmouseover="this.style.backgroundColor='#16a34a'; this.style.boxShadow='0 6px 20px rgba(34,197,94,0.6)'; this.style.transform='translateY(-2px)'"
-            onmouseout="this.style.backgroundColor='#22c55e'; this.style.boxShadow='0 4px 14px rgba(34,197,94,0.4)'; this.style.transform='translateY(0)'">
-              ▶ Run
-            </a>
+            <a href="[https://your-live-app-link.com](https://colab.research.google.com/github/briella-codes/coffee_survey/blob/main/notebooks/survey_analysis_english.ipynb)"  target="_blank"
+              style="font-size:16px; color: #37ff00; text-decoration:none;">
+              <span class="triangle-anim">▶</span> Live Demo
+          </a>
           </td>
           <td style="font-weight:bold; color:#4a90e2;padding:10px;">
             <a href="https://github.com/briella-codes/intelligent-task-manager" style="color:#6c37f4; text-decoration:none; font-weight:bold;">
