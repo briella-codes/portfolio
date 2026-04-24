@@ -50,9 +50,26 @@
             Smart Image Classifier & Organizer
           </td>
           <td>
-            <a href="https://your-live-app-link.com" 
-               style="font-size:16px; color: #37ff00ff;">
-              <span style="color: #26e001ff;"> ▶ </span> Live Demo
+            <a href="https://colab.research.google.com/github/briella-codes/coffee_survey/blob/main/notebooks/survey_analysis_english.ipynb" target="_blank" style="
+              display: inline-flex;
+              align-items: center;
+              gap: 8px;
+              background-color: #22c55e;
+              color: #ffffff;
+              text-decoration: none;
+              font-family: 'Courier New', monospace;
+              font-size: 15px;
+              font-weight: 700;
+              padding: 10px 22px;
+              border-radius: 8px;
+              border: 2px solid #16a34a;
+              box-shadow: 0 4px 14px rgba(34,197,94,0.4);
+              transition: all 0.2s ease;
+              letter-spacing: 1px;
+            "
+            onmouseover="this.style.backgroundColor='#16a34a'; this.style.boxShadow='0 6px 20px rgba(34,197,94,0.6)'; this.style.transform='translateY(-2px)'"
+            onmouseout="this.style.backgroundColor='#22c55e'; this.style.boxShadow='0 4px 14px rgba(34,197,94,0.4)'; this.style.transform='translateY(0)'">
+              ▶ Run
             </a>
           </td>
           <td style="font-weight:bold; color:#4a90e2;padding:10px;">
