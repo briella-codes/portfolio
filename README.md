@@ -63,7 +63,7 @@
             Smart Image Classifier & Organizer
           </td>
           <td>
-            <a href="[https://your-live-app-link.com](https://colab.research.google.com/github/briella-codes/coffee_survey/blob/main/notebooks/survey_analysis_english.ipynb)"  target="_blank"
+            <a href="https://colab.research.google.com/github/briella-codes/coffee_survey/blob/main/notebooks/survey_analysis_english.ipynb"  target="_blank"
               style="font-size:16px; color: #37ff00; text-decoration:none;">
               <span class="triangle-anim">▶</span> Live Demo
           </a>
