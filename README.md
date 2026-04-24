@@ -1,21 +1,21 @@
 <style>
-  @keyframes colorSpin {
-    0%   { color: #c800ff; }
-    25%  { color: #39ff14; }
-    50%  { color: #a020f0; }
-    75%  { color: #00ff88; }
-    100% { color: #c800ff; }
-  }
-  .triangle { animation: colorSpin 2s infinite; display: inline-block; }
-  .circle {
-    display: inline-flex;
-    align-items: center;
-    justify-content: center;
-    width: 34px; height: 34px;
-    border-radius: 50%;
-    background: #000000;
-    font-size: 14px;
-  }
+    @keyframes colorSpin {
+      0%   { color: #c800ff; }
+      25%  { color: #39ff14; }
+      50%  { color: #a020f0; }
+      75%  { color: #00ff88; }
+      100% { color: #c800ff; }
+    }
+    .triangle { animation: colorSpin 2s infinite; display: inline-block; }
+    .circle {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      width: 34px; height: 34px;
+      border-radius: 50%;
+      background: #000000;
+      font-size: 14px;
+    }
 </style>
 <div align="center" style="font-family: Arial; line-height: 1.6; background-color: #ffffff; padding:20px; border-radius:12px; border: 1px solid #e6e6e6 ; width:70%; margin-top:0; margin: 0 auto; text-align: center; " >
   <img src="./pics/banner.png" width="100%">
