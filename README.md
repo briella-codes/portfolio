@@ -1,4 +1,4 @@
-@keyframes lilagreen {
+@keyframes colorSpin {
   0%   { color: #c800ff; }
   25%  { color: #39ff14; }
   50%  { color: #a020f0; }
