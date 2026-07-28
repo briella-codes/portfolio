@@ -11,6 +11,7 @@
               100% { color: #c800ff; }
             }
 .triangle { animation: colorSpin 2s infinite; display: inline-block; }
+.triangleInactive { color: #C0C0C0; display: inline-block; }
 .circle {
 display: inline-flex;
 align-items: center;
